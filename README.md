@@ -1,2 +1,2 @@
-# CardView
-CardView with Recyclerview
+# cardview
+Test project for cardview
